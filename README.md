@@ -8,4 +8,4 @@ New home page
 check merge
 check merge 2 
 
-two same time same file 1 same branches
+two same time same file 2 same branches
